@@ -6,7 +6,7 @@
 module Soul::Craft {
 
     /// A guiding light
-    const Xerion's Motto: string =
+    const Hauru's Motto: string =
         "Great developers write code not for fame or fortune, 
          but for the joy of solving problems 
          and creating something meaningful.";
